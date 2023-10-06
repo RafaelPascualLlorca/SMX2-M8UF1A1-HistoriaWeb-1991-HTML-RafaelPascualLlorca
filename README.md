@@ -30,4 +30,4 @@ HTML ya comentado anteriormente fue creado en 1991, pero en 1995 fue lanzado ofi
 |----------|----------|
 |1991|Creación de HTML|
 |1995|Lanzamiento oficial (HTML 2.0)|
-|HTML|Lenguaje de programación destiando a la creación de una página web|
+|HTML|Lenguaje de programación destinado a la creación de una página web|
