@@ -1,6 +1,6 @@
 # HTML
 
-![HTML](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-HTML-RafaelPascualLlorca/blob/main/html.jpg "HTML")
+<img src="https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-HTML-RafaelPascualLlorca/blob/main/html.jpg" alt="HTML" width="400" height="300" />
 
 #### _Hecho por Rafael Pascual Llorca_
 
@@ -22,7 +22,7 @@
 
 HTML ya comentado anteriormente fue creado en 1991, pero en 1995 fue lanzado oficialmente con el nombre HTML 2.0. HTML actalmente es uno de los lenguajes más conocidos ya que es muy utilizado en las páginas web, es un lenguaje muy facil de aprender lo que permite a cualquier persona poder tener el desafio de hacer una página web. Este lenguaje ha tenido otras versiones como por ejemplo HTML 3.2, HTML 4.0, HTML 4.1, HTML 5 y 5.3, cada de versión más rápida que la anterior. No cabe duda de que gracias Berner-Lee podemos utilizar un lenguaje muy sencillo de aprender y de utilizar a la hora de enfrentarse al desafio de crear una página web.
 
- ![HTML](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-HTML-RafaelPascualLlorca/blob/main/Imagen2.jpg "HTML")
+<img src="https://github.com/RafaelPascualLlorca/SMX2-M8UF1A1-HistoriaWeb-1991-HTML-RafaelPascualLlorca/blob/main/Imagen2.jpg" alt="El primer sitio web" width="500" height="300" />
 
 ### 3. Tabla de resumen
 
